@@ -1,3 +1,3 @@
-for i in range(5):
-    print('hello')
-    print(1)
+for k in range(10):
+    if k%2==0:
+        print('hello')
